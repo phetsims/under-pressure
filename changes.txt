@@ -1,3 +1,4 @@
+Changed labels for pools 1 and 4 to use "m" and "ft" instead of "meters" and "feet".
 # 1.0.0-rc.3 3/27/2014 Release candidate with a number of fixes.
 Merged in changes from the master branch
 Added labels to grid for pools 2 & 3
