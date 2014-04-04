@@ -8,6 +8,7 @@
 define( function( require ) {
   'use strict';
 
+  // Imports
   var inherit = require( 'PHET_CORE/inherit' );
   var SquarePoolModel = require( 'UNDER_PRESSURE/square-pool/model/SquarePoolModel' );
   var Property = require( 'AXON/Property' );
@@ -19,7 +20,7 @@ define( function( require ) {
     SquarePoolModel.call( this, globalModel );
 
     //custom gravity and density for mystery pool
-    this.fluidDensity = [1300, 765, 880];
+    this.fluidDensity = [1700, 840, 1100];
     this.fluidDensityCustom = new Property( 0 );
     this.waterColor = [new Color( 113, 35, 136 ), new Color( 179, 115, 176 ), new Color( 60, 29, 71 )];
 
@@ -39,7 +40,17 @@ define( function( require ) {
       }
     } );
 
-    this.globalModel.mysteryChoiceProperty.link( function() {
+    this.globalModel.mysteryChoiceProperty.link( function( mysteryChoice ) {
+
+      // Reset the value of the non-mystery quantity when the other quantity is selected.
+      if ( mysteryChoice === 'fluidDensity' ) {
+        self.globalModel.gravityProperty.reset();
+      }
+      else if ( mysteryChoice === 'gravity' ) {
+        self.globalModel.fluidDensityProperty.reset();
+      }
+
+      // Update mystery quantity.
       if ( self.globalModel.currentScene === 'Mystery' ) {
         self.updateChoiceValue();
       }
