@@ -1,3 +1,4 @@
+# 1.0.0 4/7/2014
 # 1.0.0-rc.5 4/4/2014
 Changed barometer node layout so it doesn't obscure highest and lowest readings
 Added more variation in fluid densities in mystery pool
