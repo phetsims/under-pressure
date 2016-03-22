@@ -9,7 +9,7 @@ define( function( require ) {
   // modules
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
-  var UnderPressureScreen = require( 'UNDER_PRESSURE/UnderPressureScreen' );
+  var UnderPressureScreen = require( 'FLUID_PRESSURE_AND_FLOW/under-pressure/UnderPressureScreen' );
 
   // strings
   var underPressureTitleString = require( 'string!UNDER_PRESSURE/under-pressure.title' );
@@ -23,11 +23,15 @@ define( function( require ) {
     }
   };
 
-  SimLauncher.launch( function() {
+  // Appending '?dev' to the URL will enable developer-only features.
+  if ( phet.chipper.getQueryParameter( 'dev' ) ) {
+    simOptions = _.extend( {
+      // add dev-specific options here
+    }, simOptions );
+  }
 
-    // Create and start the sim
-    new Sim( underPressureTitleString, [
-      new UnderPressureScreen( underPressureTitleString )
-    ], simOptions ).start();
+  SimLauncher.launch( function() {
+    var sim = new Sim( underPressureTitleString, [ new UnderPressureScreen() ], simOptions );
+    sim.start();
   } );
 } );

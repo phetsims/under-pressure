@@ -28,6 +28,9 @@ require.config( {
     SHERPA: '../../sherpa',
     SUN: '../../sun/js',
 
+    // other sims
+    FLUID_PRESSURE_AND_FLOW: '../../fluid-pressure-and-flow/js',
+
     // this sim
     UNDER_PRESSURE: '.'
   },
