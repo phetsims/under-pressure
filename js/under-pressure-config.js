@@ -27,6 +27,7 @@ require.config( {
     SCENERY_PHET: '../../scenery-phet/js',
     SHERPA: '../../sherpa',
     SUN: '../../sun/js',
+    TANDEM: '../../tandem/js',
 
     // other sims
     FLUID_PRESSURE_AND_FLOW: '../../fluid-pressure-and-flow/js',
