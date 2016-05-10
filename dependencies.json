@@ -1,4 +1,5 @@
 {
+  "comment": "# under-pressure 1.1.0-rc.1 Tue May 10 2016 13:14:57 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -58,5 +59,9 @@
   "tandem": {
     "sha": "0ad35fb75928d18ecc1a429587bed4c605878e89",
     "branch": "HEAD"
+  },
+  "under-pressure": {
+    "sha": "747d0b61f2c7b229d342ee429e53e8d7a2343969",
+    "branch": "1.1"
   }
 }
