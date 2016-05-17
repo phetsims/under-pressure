@@ -19,7 +19,7 @@ define( function( require ) {
       leadDesign: 'Sam Reid',
       softwareDevelopment: 'John Blanco, Aadish Gupta, Sam Reid',
       team: 'Bryce Gruneich, Trish Loeblein, Ariel Paul, Kathy Perkins, Rachel Pepper, Noah Podolefsky',
-      qualityAssurance: 'Steele Dalton, Bryce Griebenow, Elise Morgan, Ben Roberts',
+      qualityAssurance: 'Steele Dalton, Amanda Davis, Bryce Griebenow, Elise Morgan, Ben Roberts',
       thanks: 'Thanks to Mobile Learner Labs and Actual Concepts for working with the PhET development team\nto convert this simulation to HTML5.'
     }
   };
