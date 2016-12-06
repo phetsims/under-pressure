@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.1 Tue Dec 06 2016 13:35:57 GMT-0700 (Mountain Standard Time)",
+  "comment": "# under-pressure 1.1.2-rc.2 Tue Dec 06 2016 15:40:07 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -38,7 +38,7 @@
   },
   "phetcommon": {
     "sha": "fec2fb86f8b5caeaa703588c479118ce74f11b18",
-    "branch": "under-pressure-1.1"
+    "branch": "HEAD"
   },
   "scenery": {
     "sha": "12bb4bd8fafd173c47691dd717c5b0b545ca2395",
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "761f4ae12143c6f2a3f5bec87333ff67960bd29f",
+    "sha": "a708719cf59e5542edb10e8253c0b48481a20351",
     "branch": "1.1"
   }
 }
