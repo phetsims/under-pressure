@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.3 Thu Apr 13 2017 19:27:04 GMT-0600 (MDT)",
+  "comment": "# under-pressure 1.1.3 Thu Apr 13 2017 21:40:57 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -26,7 +26,7 @@
   },
   "joist": {
     "sha": "b67eb85fab434c5e2fdeec6dc5667ee55434746f",
-    "branch": "under-pressure-1.1"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "dce9765e6fcb535970ef17c1a1bcb8db95599b08",
@@ -37,8 +37,8 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "be4a5700463952bb0a234635757a8b4ab6f3dbc4",
-    "branch": "HEAD"
+    "sha": "d8ed75d82adc72f1ec7bdcf58e1b190741f6de08",
+    "branch": "under-pressure-1.1"
   },
   "scenery": {
     "sha": "4e4154171c4705f91f875f2c448bc8fb2b95f15e",
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "ce4e6afd881f96508994c5e753ddba4e37525d19",
+    "sha": "42ba037aa01aab548c5fb90cedb1fb5b3d88b43c",
     "branch": "1.1"
   }
 }
