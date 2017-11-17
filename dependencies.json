@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.4 Fri Apr 14 2017 18:16:15 GMT-0600 (MDT)",
+  "comment": "# under-pressure 1.1.4 Fri Nov 17 2017 12:28:33 GMT-0700 (MST)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -13,8 +13,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "64ea5afc89b2a56851fd6fd751398bd1824fa6a7",
-    "branch": "HEAD"
+    "sha": "013c7ae07c060919324e095b64d7aadc78d16319",
+    "branch": "under-pressure-1.1"
   },
   "dot": {
     "sha": "bf6f038bca1ea87f23a51c670474438ae282ac2c",
@@ -25,8 +25,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "b67eb85fab434c5e2fdeec6dc5667ee55434746f",
-    "branch": "HEAD"
+    "sha": "a5ef1b1840951c7fc283fd05b5a191530ae09b15",
+    "branch": "under-pressure-1.1"
   },
   "kite": {
     "sha": "dce9765e6fcb535970ef17c1a1bcb8db95599b08",
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "87d48c53c61a26e2d86c4396a31668c7c0b5e70d",
+    "sha": "db8d1a6d93917e748a055c59f0a0bcae87cdaf25",
     "branch": "1.1"
   }
 }
