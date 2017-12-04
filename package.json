@@ -13,6 +13,11 @@
     "requirejsNamespace": "UNDER_PRESSURE",
     "phetLibs": [
       "fluid-pressure-and-flow"
-    ]
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet"
+    ],
+    "simulation": true
   }
 }
