@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.6-rc.1 Mon Apr 23 2018 17:39:07 GMT-0600 (MDT)",
+  "comment": "# under-pressure 1.1.6 Fri Apr 27 2018 15:39:41 GMT-0600 (MDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "97d194edbc70aa582836e4f080539bf05e418fe6",
+    "sha": "f58d7fd0cd00cd605239e343ab0396532e6d4b59",
     "branch": "1.1"
   }
 }
