@@ -1,15 +1,15 @@
 Under Pressure
 =============
-"Under Pressure" is an educational simulation in HTML5, by <a href="http://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a>
+"Under Pressure" is an educational simulation in HTML5, by <a href="https://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a>
 at the University of Colorado Boulder.
 For a description of this simulation, associated resources, and a link to the published version,
-<a href="http://phet.colorado.edu/en/simulation/under-pressure" target="_blank">visit the simulation's web page</a>.
+<a href="https://phet.colorado.edu/en/simulation/under-pressure" target="_blank">visit the simulation's web page</a>.
 
 ### Try it!
 
-<a href="http://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_en.html" target="_blank">Click here to run "Under Pressure".</a>
+<a href="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_en.html" target="_blank">Click here to run "Under Pressure".</a>
 
-<a href="http://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_en.html" target="_blank">
+<a href="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_en.html" target="_blank">
 <img src="https://raw.githubusercontent.com/phetsims/under-pressure/master/assets/under-pressure-screenshot.png" alt="Screenshot" style="width: 400px;"/>
 </a>
 
@@ -27,6 +27,7 @@ git clone https://github.com/phetsims/babel.git
 git clone https://github.com/phetsims/brand.git
 git clone https://github.com/phetsims/chipper.git
 git clone https://github.com/phetsims/dot.git
+git clone https://github.com/phetsims/fluid-pressure-and-flow.git
 git clone https://github.com/phetsims/joist.git
 git clone https://github.com/phetsims/kite.git
 git clone https://github.com/phetsims/phet-core.git
