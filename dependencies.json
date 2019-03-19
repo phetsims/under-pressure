@@ -63,5 +63,9 @@
   "under-pressure": {
     "sha": "d63113f5983e531f94e3bc9d64ac1119ba8bdc49",
     "branch": "1.1"
+  },
+  "phetmarks": {
+    "branch": "master",
+    "sha": "3fdfece0fe0262594bb06856833b8b16be25deb8"
   }
 }
