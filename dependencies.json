@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.10 Tue Mar 19 2019 17:23:10 GMT-0400 (EDT)",
+  "comment": "# under-pressure 1.1.11-rc.1 Wed Mar 20 2019 20:01:57 GMT-0400 (EDT)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -14,7 +14,7 @@
   },
   "chipper": {
     "sha": "79313d50a530b2df1dc8f388703b0109d63255a5",
-    "branch": "under-pressure-1.1"
+    "branch": "HEAD"
   },
   "dot": {
     "sha": "bf6f038bca1ea87f23a51c670474438ae282ac2c",
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "f210ed996b3f34b7de7508dfe24d595889d7df87",
+    "sha": "ca52e4f4f0dc94ec22e3ae1ed584f90ad17595fa",
     "branch": "1.1"
   }
 }
