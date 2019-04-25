@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.12-rc.1 Thu Apr 18 2019 11:13:12 GMT-0800 (Alaskan Daylight Time)",
+  "comment": "# under-pressure 1.1.12 Wed Apr 24 2019 17:11:28 GMT-0800 (Alaskan Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "872c4b3187eee27d0aa9619231bb50401dab612f",
+    "sha": "c781df6ac28b252be3515c295ef0d5b8f57540c2",
     "branch": "1.1"
   }
 }
