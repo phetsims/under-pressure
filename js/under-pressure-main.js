@@ -14,7 +14,7 @@ define( require => {
   // strings
   const underPressureTitleString = require( 'string!UNDER_PRESSURE/under-pressure.title' );
 
-  var simOptions = {
+  const simOptions = {
     credits: {
       leadDesign: 'Sam Reid',
       softwareDevelopment: 'John Blanco, Aadish Gupta, Sam Reid',
@@ -26,7 +26,7 @@ define( require => {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( underPressureTitleString, [ new UnderPressureScreen() ], simOptions );
+    const sim = new Sim( underPressureTitleString, [ new UnderPressureScreen() ], simOptions );
     sim.start();
   } );
 } );
