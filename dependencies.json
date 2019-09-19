@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.16-rc.2 Tue Sep 10 2019 12:09:52 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# under-pressure 1.1.16 Thu Sep 19 2019 03:01:42 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "ef596ad4447ff0210c3b06d752ddacbecebe058f",
+    "sha": "8100d0b28871088a6efcf9d5380ca0a65278a738",
     "branch": "1.1"
   }
 }
