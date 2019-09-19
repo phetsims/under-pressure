@@ -3,16 +3,16 @@
 /**
  * Main file for the Under Pressure simulation.
  */
-define( function( require ) {
+define( require => {
   'use strict';
 
   // modules
-  var Sim = require( 'JOIST/Sim' );
-  var SimLauncher = require( 'JOIST/SimLauncher' );
-  var UnderPressureScreen = require( 'FLUID_PRESSURE_AND_FLOW/under-pressure/UnderPressureScreen' );
+  const Sim = require( 'JOIST/Sim' );
+  const SimLauncher = require( 'JOIST/SimLauncher' );
+  const UnderPressureScreen = require( 'FLUID_PRESSURE_AND_FLOW/under-pressure/UnderPressureScreen' );
 
   // strings
-  var underPressureTitleString = require( 'string!UNDER_PRESSURE/under-pressure.title' );
+  const underPressureTitleString = require( 'string!UNDER_PRESSURE/under-pressure.title' );
 
   var simOptions = {
     credits: {
