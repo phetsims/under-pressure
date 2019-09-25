@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.17-rc.1 Wed Sep 25 2019 15:09:43 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# under-pressure 1.1.17-rc.2 Wed Sep 25 2019 16:55:01 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -34,7 +34,7 @@
   },
   "phet-core": {
     "sha": "915945d2cc026383cf4854890f754aebd7193a7d",
-    "branch": "under-pressure-1.1"
+    "branch": "HEAD"
   },
   "phetcommon": {
     "sha": "415a4d84e29aa2cc05cb5d278716f07606a98967",
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "e4aeca4dc183835484ed7d8a40209b18de4aa3fa",
+    "sha": "ed3908e545217e6a3e5ba60dc2b8ab5daa5286fe",
     "branch": "1.1"
   }
 }
