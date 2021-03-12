@@ -22,7 +22,7 @@ const simOptions = {
   }
 };
 
-simLauncher.launch( function() {
+simLauncher.launch( () => {
   const sim = new Sim( underPressureTitleString, [ new UnderPressureScreen() ], simOptions );
   sim.start();
 } );
