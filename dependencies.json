@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "0e6ecc9f8e5b26cae611e73da992687ce66065aa",
+    "sha": "612e8c4c06d516285c46327aad2440d76a03fa6d",
     "branch": "HEAD"
   },
   "dot": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "32dc7a662a04b74cc5480b542909beec4288a552",
+    "sha": "76dde6bb8f85fbf13a4fbb5ce6c53d57204fb385",
     "branch": "1.1"
   }
 }
