@@ -3,11 +3,17 @@
 /**
  * Auto-generated from modulify, DO NOT manually modify.
  */
-
+/* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
 import underPressure from './underPressure.js';
 
-const underPressureStrings = getStringModule( 'UNDER_PRESSURE' );
+type StringsType = {
+  'under-pressure': {
+    'title': string
+  }
+};
+
+const underPressureStrings = getStringModule( 'UNDER_PRESSURE' ) as StringsType;
 
 underPressure.register( 'underPressureStrings', underPressureStrings );
 
