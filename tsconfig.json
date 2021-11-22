@@ -5,7 +5,7 @@
       "path": "../fluid-pressure-and-flow"
     },
     {
-      "path": "../joist"
+      "path": "../joist/tsconfig-module.json"
     }
   ],
   "include": [
