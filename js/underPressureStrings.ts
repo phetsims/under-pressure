@@ -9,7 +9,7 @@ import underPressure from './underPressure.js';
 
 type StringsType = {
   'under-pressure': {
-    'title': string
+    'title': string;
   }
 };
 
