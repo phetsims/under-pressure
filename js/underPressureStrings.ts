@@ -11,7 +11,7 @@ import underPressure from './underPressure.js';
 type StringsType = {
   'under-pressure': {
     'title': string;
-    'titleProperty': TReadOnlyProperty<string>;
+    'titleStringProperty': TReadOnlyProperty<string>;
   }
 };
 
