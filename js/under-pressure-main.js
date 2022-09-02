@@ -9,7 +9,7 @@ import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import underPressureStrings from './underPressureStrings.js';
 
-const underPressureTitleString = underPressureStrings[ 'under-pressure' ].title;
+const underPressureTitleStringProperty = underPressureStrings[ 'under-pressure' ].titleStringProperty;
 
 const simOptions = {
   credits: {
@@ -23,6 +23,6 @@ const simOptions = {
 };
 
 simLauncher.launch( () => {
-  const sim = new Sim( underPressureTitleString, [ new UnderPressureScreen() ], simOptions );
+  const sim = new Sim( underPressureTitleStringProperty, [ new UnderPressureScreen() ], simOptions );
   sim.start();
 } );
