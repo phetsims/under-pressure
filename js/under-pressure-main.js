@@ -7,9 +7,9 @@
 import UnderPressureScreen from '../../fluid-pressure-and-flow/js/under-pressure/UnderPressureScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
-import underPressureStrings from './underPressureStrings.js';
+import UnderPressureStrings from './UnderPressureStrings.js';
 
-const underPressureTitleStringProperty = underPressureStrings[ 'under-pressure' ].titleStringProperty;
+const underPressureTitleStringProperty = UnderPressureStrings[ 'under-pressure' ].titleStringProperty;
 
 const simOptions = {
   credits: {

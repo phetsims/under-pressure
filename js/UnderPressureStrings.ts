@@ -15,8 +15,8 @@ type StringsType = {
   }
 };
 
-const underPressureStrings = getStringModule( 'UNDER_PRESSURE' ) as StringsType;
+const UnderPressureStrings = getStringModule( 'UNDER_PRESSURE' ) as StringsType;
 
-underPressure.register( 'underPressureStrings', underPressureStrings );
+underPressure.register( 'UnderPressureStrings', UnderPressureStrings );
 
-export default underPressureStrings;
+export default UnderPressureStrings;
