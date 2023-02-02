@@ -1,5 +1,5 @@
 {
-  "comment": "# under-pressure 1.1.25-rc.1 Thu Feb 02 2023 14:32:23 GMT-0700 (Mountain Standard Time)",
+  "comment": "# under-pressure 1.1.25 Thu Feb 02 2023 14:33:08 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "7d27130a4d27da15aa7f8a21bbfb9245288c1b44",
     "branch": "HEAD"
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "9db893e5854e34bd3e75efd4abfe4e631856f1ee",
+    "sha": "77a8b789ae68655d41fa902bad5468c2fa82f7e0",
     "branch": "1.1"
   }
 }
