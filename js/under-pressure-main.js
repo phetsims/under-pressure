@@ -2,6 +2,7 @@
 
 /**
  * Main file for the Under Pressure simulation.
+ * @author Sam Reid (PhET Interactive Simulations)
  */
 
 import UnderPressureScreen from '../../fluid-pressure-and-flow/js/under-pressure/UnderPressureScreen.js';
