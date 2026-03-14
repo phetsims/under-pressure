@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "6b3299139ac7f907fc32a90117d395ed2603538c",
+    "sha": "696c54c3ecdeb9975805cf05ad4123e693447a6d",
     "branch": "HEAD"
   },
   "kite": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "bc153a5ca727c24c70c4bb9b3d7a7b2e1e47ed6c",
+    "sha": "e36666550f9a149f3cf3f28eb395b83a270c1b3d",
     "branch": "1.1"
   }
 }
