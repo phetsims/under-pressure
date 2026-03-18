@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "b054f0c7da5bfaf1e2ba3e151937d3bd058d1ce4",
+    "sha": "5c4b97c9f29a374b9f86ebc16c68be7331c90f47",
     "branch": "HEAD"
   },
   "dot": {
@@ -53,7 +53,7 @@
     "branch": "HEAD"
   },
   "sherpa": {
-    "sha": "ab4d5c141bec124c13aeb3d5e0631257da1785bf",
+    "sha": "b5e8c0ee33e743f52dfbfc7ec6b14d2ebdb0dff7",
     "branch": "HEAD"
   },
   "sun": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "4e11c3fd94270a172343afb2e411703c5344f0e5",
+    "sha": "44fbf12d16ae6e4b0239c009e86d0ee601df17bd",
     "branch": "1.1"
   }
 }
