@@ -9,7 +9,7 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "b83f1b7823ab2851eb3f4f1eec5dd4b86fe8ebf8",
+    "sha": "719840a5131700115f8b22578b380cbe08e31460",
     "branch": "HEAD"
   },
   "chipper": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "under-pressure": {
-    "sha": "d7743b92c590a1dc2d3b4f7b9025f92b6f252c1f",
+    "sha": "e5e4f244d1d29173cdf11f1df6676ab1a2f646f4",
     "branch": "1.1"
   }
 }
