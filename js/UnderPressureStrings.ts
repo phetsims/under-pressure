@@ -20,4 +20,6 @@ type StringsType = {
 
 const UnderPressureStrings = getStringModule( 'UNDER_PRESSURE' ) as StringsType;
 
+underPressure.register( 'UnderPressureStrings', UnderPressureStrings );
+
 export default UnderPressureStrings;
